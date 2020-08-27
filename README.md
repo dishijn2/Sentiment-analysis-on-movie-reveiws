@@ -18,6 +18,7 @@ If polarity precision is important to your business, you might consider expandin
 * Neutral
 * Negative
 * Very negative
+
 This is usually referred to as fine-grained sentiment analysis, and could be used to interpret 5-star ratings in a review, for example:
 Very Positive = 5 stars
 Very Negative = 1 star
